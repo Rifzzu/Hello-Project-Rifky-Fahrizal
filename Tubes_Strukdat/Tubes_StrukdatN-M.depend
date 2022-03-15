@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1639840548 source:c:\users\win10\documents\test code c++\tubes_strukdatn-m\main.cpp
+	<iostream>
+	"user.h"
+	"voucher.h"
+	<cstdlib>
+	<conio.h>
+
+1639840810 c:\users\win10\documents\test code c++\tubes_strukdatn-m\user.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"voucher.h"
+
+1639840523 c:\users\win10\documents\test code c++\tubes_strukdatn-m\voucher.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1639840509 source:c:\users\win10\documents\test code c++\tubes_strukdatn-m\user.cpp
+	"user.h"
+
+1639840534 source:c:\users\win10\documents\test code c++\tubes_strukdatn-m\voucher.cpp
+	"voucher.h"
+
+1641113732 source:c:\users\win10\documents\test code c++\tubes strukdat\tubes_strukdatn-m - temp\main.cpp
+	<iostream>
+	"user.h"
+	"voucher.h"
+	<cstdlib>
+	<conio.h>
+
+1641113673 c:\users\win10\documents\test code c++\tubes strukdat\tubes_strukdatn-m - temp\user.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"voucher.h"
+
+1641113689 c:\users\win10\documents\test code c++\tubes strukdat\tubes_strukdatn-m - temp\voucher.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1641113704 source:c:\users\win10\documents\test code c++\tubes strukdat\tubes_strukdatn-m - temp\user.cpp
+	"user.h"
+
+1641113718 source:c:\users\win10\documents\test code c++\tubes strukdat\tubes_strukdatn-m - temp\voucher.cpp
+	"voucher.h"
+
